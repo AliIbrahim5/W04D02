@@ -4,6 +4,8 @@ import {AiFillHome} from "react-icons/ai"
 import {MdMapsHomeWork} from "react-icons/md"
 import{GiSkills}from "react-icons/gi" 
 
+
+
 import{FaUniversity} from "react-icons/fa"
 
 import "./App.css";
@@ -15,7 +17,7 @@ const App = () => {
         <Profile/>
       </div>
       <div className="texts">
-        <h1 className="headrcirds" ><AiFillHome/> ABOUT</h1>
+        <h1 className="headrcirds" ><AiFillHome/>  ABOUT</h1>
         <hr />
         <p>
           Over the past 20 years I have continuously challenged myself with new
